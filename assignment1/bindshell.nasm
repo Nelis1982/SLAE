@@ -1,6 +1,6 @@
 ; SLAE Assignment 1
 ; bindshell.nasm
-; Niels Muskens
+; Nelis
 
 global _start
 
